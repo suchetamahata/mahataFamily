@@ -1,0 +1,21 @@
+.responsive-image {
+   display: flex;
+   align-items: center;
+   
+  }
+  
+  .responsive-image__image {
+   width : 20%;
+   height:40%;
+   border-style: solid;
+   border-width: 1.5rem;
+   border-color: rgb(8, 8, 8);
+   padding:1rem;
+  }
+  .p{
+    color: antiquewhite;
+    font-size: 2rem;
+    padding:2rem;
+    font-style:italic;
+  }
+  
