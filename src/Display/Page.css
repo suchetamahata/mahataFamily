@@ -18,4 +18,20 @@
     padding:2rem;
     font-style:italic;
   }
-  
+
+@media  (max-width: 425px) {
+  .responsive-image__image {
+    width : 60%;
+    height: 80%;
+    border-width: 0.5rem;
+    padding: 0.1rem;
+    margin-left: 4rem;
+  }
+  .responsive-image {
+    display: grid;
+    justify-content: center;
+   }
+   .p{
+    padding: 1rem;
+   }
+}
